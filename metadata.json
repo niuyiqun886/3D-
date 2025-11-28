@@ -1,0 +1,5 @@
+{
+  "name": "Copy of NPN Transistor 3D Visualizer",
+  "description": "A 3D interactive visualization of electron flow, diffusion, and recombination in an NPN transistor operating in the active region.",
+  "requestFramePermissions": []
+}
